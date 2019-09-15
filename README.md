@@ -5,16 +5,21 @@
 ## Course Real Difference
 
 ## Course Goal
+- Understand the background of web / app development
 - Define a goal
 - Discover the problems and difficulties
-- Solution design
-- Get a high level concept in the digital area like website / mobile app / design etc.
-- Implementation using website
+- Solution Design and what is solution stack?
+- Know big picture / roadmap of web / app development area
+- High level concept in digital area like website / mobile app / design etc
+- Website Implementation
 - Responsive
+- Integrating with other services
+- Follow a common web development practice
 - Issue discovery
 - Bugfix
 - Keep track of progress
-- Static site hosting
+- Hosting
+- Get in touch on new technology
 
 ## Extension
 - Digital solution forms
