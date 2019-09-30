@@ -10,3 +10,7 @@ Please check the task slides and work slides if you care about your grades
 https://docs.google.com/presentation/d/1pMcB1PPwrbMBTRB9zhkgJHp81Nw_1o3a4dRHvM9DkMI/edit?usp=sharing
 
 Github repo: https://github.com/alextsoi/2019-polyu-sd3861-lecture2
+
+# Lecture 3
+
+Github repo: https://github.com/alextsoi/2019-polyu-sd3861-lecture3
