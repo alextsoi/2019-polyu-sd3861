@@ -12,5 +12,6 @@ https://docs.google.com/presentation/d/1pMcB1PPwrbMBTRB9zhkgJHp81Nw_1o3a4dRHvM9D
 Github repo: https://github.com/alextsoi/2019-polyu-sd3861-lecture2
 
 # Lecture 3
+https://docs.google.com/presentation/d/1NyPwSloFLisRGz5pgG9YWitaBxzdwSWeDHUQpKv3aks/edit?usp=sharing
 
 Github repo: https://github.com/alextsoi/2019-polyu-sd3861-lecture3
