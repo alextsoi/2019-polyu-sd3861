@@ -18,3 +18,9 @@ Github repo: https://github.com/alextsoi/2019-polyu-sd3861-lecture3
 
 # Lecture 4
 https://docs.google.com/presentation/d/1GdCIsrR3Q1DgIM_yQiKH-qP0Ku1OfGifmGggFiLrgLY/edit?usp=sharing
+
+# Lecture 5
+https://docs.google.com/presentation/d/1Oowwqi0mSvADUqPZHs77cn57mF-qOIJkhGcYwKCtwew/edit?usp=sharing
+
+Github repo:
+https://github.com/alextsoi/startbootstrap-grayscale
