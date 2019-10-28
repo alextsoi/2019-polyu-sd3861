@@ -24,3 +24,9 @@ https://docs.google.com/presentation/d/1Oowwqi0mSvADUqPZHs77cn57mF-qOIJkhGcYwKCt
 
 Github repo:
 https://github.com/alextsoi/startbootstrap-grayscale
+
+# Lecture 6
+https://docs.google.com/presentation/d/1JuA6ztYjMof0eKuXi_FHIXaUBg_19GW4x2FLCJ63gWo/edit?usp=sharing
+
+Github repo:
+https://github.com/alextsoi/startbootstrap-grayscale
