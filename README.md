@@ -30,3 +30,6 @@ https://docs.google.com/presentation/d/1JuA6ztYjMof0eKuXi_FHIXaUBg_19GW4x2FLCJ63
 
 Github repo:
 https://github.com/alextsoi/startbootstrap-grayscale
+
+# Lecture 7
+https://docs.google.com/presentation/d/1KE2wWxtzDGqc_PTpD8vbUiqgUzIJwUX5wGv2sYLjxIo/edit?usp=sharing
